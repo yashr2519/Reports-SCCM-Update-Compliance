@@ -1,6 +1,6 @@
 1. upload the RDL files to your report server
 2. change Data Source in both Reports
-3. change Action Link in the collection report to the computer report
+3. change Action Link in the Computer_updates_status_LastPatchday .report to the computer report
 
 ![image](https://user-images.githubusercontent.com/96050818/164210142-4cfaf243-05a0-4f9c-a863-4bcc5d92f96a.png)
 
